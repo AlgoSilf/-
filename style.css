@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-color: GreenYellow;
+   margin: 5px;
+}
+h1{
+    color: crimson;
+}
+footer{
+    background-color:green;
+    border: green;
+}
+.her{
+    border: 1px solid blueviolet;
+    margin: 5px;
+}
+footer p {
+    background-color: azure;
+    color: blue;
+    border: green;
+}
+.d {
+    border: 3px solid blue;
+}
+h2{
+    color: rgb(194, 177, 177);
+}
